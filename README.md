@@ -42,8 +42,6 @@ For the *login system* I am using a package `django-allauth`. Go to following li
 
 To *style* the front-end I am using `Tailwind CSS`, Link to Tailwind component: <https://tailwindcomponents.com/>. 
 
-TODO: Add details about django-allauth and tailwind css.
-
 
 
 
