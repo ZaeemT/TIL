@@ -38,6 +38,9 @@ Afterwards you have to models in the app. Models acts as database tables. Some c
 python manage.py makemigrations
 python manage.py migrate
 ```
+For the *login system* I am using a package `django-allauth`. Go to following link to access its documentation, <https://django-allauth.readthedocs.io/en/latest/>. Install and configure with help of the instructions in the above link.
+
+To *style* the front-end I am using `Tailwind CSS`, Link to Tailwind component: <https://tailwindcomponents.com/>. 
 
 TODO: Add details about django-allauth and tailwind css.
 
