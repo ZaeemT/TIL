@@ -42,6 +42,8 @@ For the *login system* I am using a package `django-allauth`. Go to following li
 
 To *style* the front-end I am using `Tailwind CSS`, Link to Tailwind component: <https://tailwindcomponents.com/>. 
 
+For *images* in models I am using a package `sorl-thumbnail`. For installation and configuration of this package access the following link, <https://github.com/jazzband/sorl-thumbnail>.
+
 
 
 
